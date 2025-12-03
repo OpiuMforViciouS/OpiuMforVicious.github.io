@@ -37,14 +37,14 @@
 ## 🚀 Быстрый старт
 
 ### Просмотр онлайн:
-Сайт доступен по адресу: https://opiumforvicious.github.io
+Сайт доступен по адресу: https://bukh-sun.github.io
 
 ### Локальный запуск:
 ```bash
 # Клонируйте репозиторий
-git clone https://github.com/OpiuMforViciouS/OpiuMforViciouS.github.io.git
+git clone https://github.com/Bukh-sun/OpiuMforViciouS.github.io.git
 
 # Перейдите в папку проекта
-cd OpiuMforViciouS.github.io
+cd Buk-sun.github.io
 
 # Откройте index.html в браузере
